@@ -10,6 +10,7 @@ btn.addEventListener('click', function() {
   // six values within `hex`  
   //`hexColor = hex[0];` would only OVERRIDE the `hex` value and set it to `0`
  }
+ console.log(randomNumber);
 
 
 
